@@ -1,3 +1,4 @@
 completed
 TEST
 feature1
+other change in feature1
